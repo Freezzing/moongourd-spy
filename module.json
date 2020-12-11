@@ -10,6 +10,8 @@
     },
     "author": "SaltyMonkey",
     "description": "Gathering stats about player DPS from Moongourd without leaving Tera Online.",
-    "servers": ["https://raw.githubusercontent.com/SaltyMonkey/moongourd-spy/master/"],
+    "servers": [
+        "https://raw.githubusercontent.com/Freezzing/moongourd-spy/master/"
+    ],
     "supportUrl": "https://github.com/SaltyMonkey/moongourd-spy/issues"
 }

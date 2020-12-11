@@ -1,19 +1,34 @@
 {
-	"version": 2,
+	"version": 3,
 	"data": {
 		"autoCheckAtInspect": true,
-		"keepContinentsSequence": false,
 		"continentsToCheck": [
+			{
+				"continent": 3102,
+				"boss": 1000,
+				"name": "DAN",
+				"desired": 19
+			},
 			{
 				"continent": 3202,
 				"boss": 1000,
-				"name": "Kalligar HM"
+				"name": "DAH",
+				"desired": 13.5
 			},
 			{
-				"continent": 3027,
+				"continent": 3103,
 				"boss": 1000,
-				"name": "Hagufna"
+				"name": "FAU",
+				"desired": 17
+			},
+			{
+				"continent": 456,
+				"boss": 1003,
+				"name": "TSH",
+				"desired": 16
 			}
-		]
+		],
+		"keepContinentsSequence": true,
+		"useDesired": true
 	}
 }
