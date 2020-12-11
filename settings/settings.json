@@ -7,28 +7,28 @@
 				"continent": 3102,
 				"boss": 1000,
 				"name": "DAN",
-				"desired": 19
+				"desired": 15
 			},
 			{
 				"continent": 3202,
 				"boss": 1000,
 				"name": "DAH",
-				"desired": 13.5
+				"desired": 10
 			},
 			{
 				"continent": 3103,
 				"boss": 1000,
 				"name": "FAU",
-				"desired": 17
+				"desired": 12
 			},
 			{
 				"continent": 456,
 				"boss": 1003,
 				"name": "TSH",
-				"desired": 16
+				"desired": 10
 			}
 		],
 		"keepContinentsSequence": true,
-		"useDesired": true
+		"useDesired": false
 	}
 }
